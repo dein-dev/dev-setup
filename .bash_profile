@@ -1,4 +1,6 @@
 # Add `~/bin` to the `$PATH`
+HOME=/Users/local/dein-dev
+export $HOME
 export PATH="$HOME/bin:$PATH";
 
 # Load the shell dotfiles, and then some:
